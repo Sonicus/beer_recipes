@@ -1,0 +1,52 @@
+Haba Ipa
+American IPA
+
+Recipe Specs
+----------------
+Batch Size (L):           17.0
+Total Grain (kg):         4.669
+Total Hops (g):           224.40
+Original Gravity (OG):    1.059  (°P): 14.5
+Final Gravity (FG):       1.015  (°P): 3.8
+Alcohol by Volume (ABV):  5.80 %
+Colour (SRM):             5.5   (EBC): 10.8
+Bitterness (IBU):         95.6   (Average)
+Brewhouse Efficiency (%): 68
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+3.969 kg Viking Pale Ale (85%)
+0.700 kg Viking Cara Pale (15%)
+
+Hop Bill
+----------------
+23.8 g Magnum Pellet (12.5% Alpha) @ 60 Minutes (Boil) (1.4 g/L)
+23.8 g Citra Pellet (11.1% Alpha) @ 15 Minutes (Boil) (1.4 g/L)
+23.8 g Mandarina Bavaria Pellet (8.5% Alpha) @ 15 Minutes (Boil) (1.4 g/L)
+25.5 g Citra Pellet (11.1% Alpha) @ 10 Minutes (Boil) (1.5 g/L)
+25.5 g Mandarina Bavaria Pellet (8.5% Alpha) @ 10 Minutes (Boil) (1.5 g/L)
+51.0 g Citra Pellet (11.1% Alpha) @ 5 Days (Dry Hop) (3 g/L)
+51.0 g Mandarina Bavaria Pellet (8.5% Alpha) @ 5 Days (Dry Hop) (3 g/L)
+
+Misc Bill
+----------------
+24.0 g Habanero @ 5 Days (Secondary)
+
+Single step Infusion at 66°C for 90 Minutes.
+Fermented at 20°C with Safale US-05
+
+Notes
+----------------
+Volume: 15.5l
+18.3.2017 OG 14.7 plato (SG 1.060)
+26.3.2017 G 4 plato (SG 1.016)
+2.4.2017 FG 3.5 plato (SG 1.014)
+
+Bottling 2.4.2017
+ABV 6.1%
+
+Priming sugar 100g/15l (2.5 volumes CO2)
+
+Recipe Generated with BrewMate
+

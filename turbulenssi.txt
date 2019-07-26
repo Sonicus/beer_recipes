@@ -1,0 +1,62 @@
+Koodinimi Turbulenssi
+Imperial Stout
+
+Recipe Specs
+----------------
+Batch Size (L):           19.5
+Total Grain (kg):         10.276
+Total Hops (g):           41.05
+Original Gravity (OG):    1.104  (°P): 24.6
+Final Gravity (FG):       1.026  (°P): 6.6
+Alcohol by Volume (ABV):  10.22 %
+Colour (SRM):             56.4   (EBC): 111.0
+Bitterness (IBU):         53.5   (Average)
+Brewhouse Efficiency (%): 70
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+6.979 kg Viking Pale Ale (67.92%)
+0.718 kg Lactose (6.99%)
+0.466 kg Vikin Chocolate Light Malt (4.53%)
+0.466 kg Viking Cara Plus Malt (4.53%)
+0.466 kg Viking Chocolate Malt (4.53%)
+0.466 kg Weyermann Chocolate Rye Malt (4.53%)
+0.349 kg Flaked Oats (3.4%)
+0.250 kg Viking Crystal 150 (2.43%)
+0.116 kg Roasted Barley (1.13%)
+
+Hop Bill
+----------------
+41.1 g Magnum Pellet (12.5% Alpha) @ 60 Minutes (Boil) (2.1 g/L)
+
+Misc Bill
+----------------
+2.0 g Vanilla Bean @ 14 Days (Secondary)
+240.0 g Cacao Nibs @ 3 Days (Secondary)
+
+Single step Infusion at 67°C for 90 Minutes.
+Fermented at 21°C with WLP001 - California Ale
+
+Notes
+----------------
+3.5l starter (Light DME 350g)
+
+OG 25.3.2018 1.095
+SG 30.3.2018 1.038
+SG 4.4.2018  1.038
+
+ABV ~7,5%
+
+Actual volume 18,5L
+Efficiency 63%
+
+Cacao nibs and vanilla in 1.4.2018
+Cacao nibs out 4.4.2018
+Second vanilla in 15.4.2018
+Bottling 22.4.2018
+
+Priming sugar 96g/16l (2.3 vol)
+
+Recipe Generated with BrewMate
+

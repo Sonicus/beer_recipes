@@ -1,0 +1,61 @@
+Punk IPA Clone
+American IPA
+
+Recipe Specs
+----------------
+Batch Size (L):           35.0
+Total Grain (kg):         8.575
+Total Hops (g):           409.00
+Original Gravity (OG):    1.053  (°P): 13.1
+Final Gravity (FG):       1.013  (°P): 3.3
+Alcohol by Volume (ABV):  5.21 %
+Colour (SRM):             4.2   (EBC): 8.2
+Bitterness (IBU):         68.5   (Average)
+Brewhouse Efficiency (%): 70
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+8.050 kg Crisp Extra Pale Malt (93.88%)
+0.525 kg Viking Cara Pale (6.12%)
+
+Hop Bill
+----------------
+21.0 g Ahtanum Pellet (5.2% Alpha) @ 60 Minutes (Boil) (0.6 g/L)
+31.5 g Chinook Pellet (11.4% Alpha) @ 60 Minutes (Boil) (0.9 g/L)
+21.0 g Ahtanum Pellet (5.2% Alpha) @ 20 Minutes (Boil) (0.6 g/L)
+31.5 g Chinook Pellet (11.4% Alpha) @ 20 Minutes (Boil) (0.9 g/L)
+15.8 g Ahtanum Pellet (5.2% Alpha) @ 10 Minutes (Boil) (0.5 g/L)
+15.8 g Amarillo Pellet (8.6% Alpha) @ 10 Minutes (Boil) (0.5 g/L)
+35.0 g Chinook Pellet (11.4% Alpha) @ 10 Minutes (Boil) (1 g/L)
+21.0 g Ahtanum Pellet (5.2% Alpha) @ 20 Minutes (Aroma) (0.6 g/L)
+35.0 g Amarillo Pellet (8.6% Alpha) @ 20 Minutes (Aroma) (1 g/L)
+26.3 g Cascade Pellet (7.8% Alpha) @ 20 Minutes (Aroma) (0.8 g/L)
+35.0 g Chinook Pellet (11.4% Alpha) @ 20 Minutes (Aroma) (1 g/L)
+22.3 g Ahtanum Pellet (5.2% Alpha) @ 0 Days (Dry Hop) (0.6 g/L)
+28.0 g Amarillo Pellet (8.6% Alpha) @ 0 Days (Dry Hop) (0.8 g/L)
+35.0 g Cascade Pellet (7.8% Alpha) @ 0 Days (Dry Hop) (1 g/L)
+35.0 g Chinook Pellet (11.4% Alpha) @ 0 Days (Dry Hop) (1 g/L)
+
+Misc Bill
+----------------
+
+Single step Infusion at 66°C for 90 Minutes.
+Fermented at 20°C with Safale US-05
+
+Notes
+----------------
+Volume after boil 35l
+19.5.2019 OG 14.5 plato -> 1.059
+Efficiency 78%
+
+Dilute to 1.053 add 4l water
+
+Dry hops 27.5.2019
+27.5.2019 SG 3 plato -> 1.012 -> 5.4%
+30.5.2019 FG 3 plato -> 1.012 -> 5.4%
+
+Carb: 2.4 vol co2
+
+Recipe Generated with BrewMate
+

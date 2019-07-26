@@ -1,0 +1,58 @@
+Mustaherukkaolut
+
+
+Recipe Specs
+----------------
+Batch Size (L):           23.5
+Total Grain (kg):         5.500
+Total Hops (g):           52.00
+Original Gravity (OG):    1.051  (°P): 12.6
+Final Gravity (FG):       1.010  (°P): 2.6
+Alcohol by Volume (ABV):  5.34 %
+Colour (SRM):             11.2   (EBC): 22.1
+Bitterness (IBU):         55.9   (Average)
+Brewhouse Efficiency (%): 70
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+4.000 kg Viking Pale Ale (72.73%)
+1.000 kg Viking Cara Pale (18.18%)
+0.500 kg Viking Crystal 150 (9.09%)
+
+Hop Bill
+----------------
+12.0 g Magnum Pellet (12.5% Alpha) @ 60 Minutes (Boil) (0.5 g/L)
+20.0 g Mosaic Pellet (12% Alpha) @ 30 Minutes (Boil) (0.9 g/L)
+20.0 g Simcoe Pellet (12.2% Alpha) @ 30 Minutes (Boil) (0.9 g/L)
+
+Misc Bill
+----------------
+10.0 g Brewer's Clarity @ 14 Days (Primary)
+600.0 g Blackcurrant @ 5 Days (Secondary)
+800.0 g Blackcurrant @ 4 Days (Secondary)
+
+Single step Infusion at 66°C for 90 Minutes.
+Fermented at 20°C with Safale US-05
+
+Notes
+----------------
+OG 1,061 (plato 15)  Dilute to 1.051 (Add 4l water) 9.9.2018
+Add 600g blackcurrant 18.9.2018
+Add 800g blackcurrant 19.9.2018
+
+SG 1.010 (plato 2,5) 22.9.2018 
+FG 1,010 (plato 2,5) 25.9.2018
+
+ABV 5,4%
+
+Volume 21l (25l after dilution)
+
+Efficiency 74% before dilution
+
+Priming sugar 194 g  (2.8 vol CO2)
+
+
+
+Recipe Generated with BrewMate
+

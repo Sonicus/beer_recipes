@@ -1,0 +1,54 @@
+Dead Hedgehog Club
+
+
+Recipe Specs
+----------------
+Batch Size (L):           19.0
+Total Grain (kg):         3.621
+Total Hops (g):           200.00
+Original Gravity (OG):    1.042  (°P): 10.5
+Final Gravity (FG):       1.013  (°P): 3.3
+Alcohol by Volume (ABV):  3.85 %
+Colour (SRM):             7.8   (EBC): 15.4
+Bitterness (IBU):         37.2   (Average)
+Brewhouse Efficiency (%): 70
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+2.791 kg Viking Pale Ale (77.07%)
+0.630 kg Viking Cara Pale (17.4%)
+0.200 kg Viking Crystal 150 (5.53%)
+
+Hop Bill
+----------------
+6.0 g Citra Pellet (11.1% Alpha) @ 60 Minutes (Boil) (0.3 g/L)
+6.0 g Simcoe Pellet (12.2% Alpha) @ 60 Minutes (Boil) (0.3 g/L)
+6.5 g Citra Pellet (11.1% Alpha) @ 30 Minutes (Boil) (0.3 g/L)
+6.5 g Simcoe Pellet (12.2% Alpha) @ 30 Minutes (Boil) (0.3 g/L)
+75.0 g Citra Pellet (11.1% Alpha) @ 7 Days (Dry Hop) (3.9 g/L)
+50.0 g Mosaic Pellet (12% Alpha) @ 7 Days (Dry Hop) (2.6 g/L)
+50.0 g Simcoe Pellet (12.2% Alpha) @ 7 Days (Dry Hop) (2.6 g/L)
+
+Misc Bill
+----------------
+4.0 g Irish Moss @ 15 Minutes (Boil)
+
+Single step Infusion at 62°C for 120 Minutes.
+Fermented at 20°C with Safale US-05
+
+Notes
+----------------
+22.10.2017 OG 11 plato (1.044) -> Dilute to 1.042 (add 0,9l of water)
+29.10.2017 SG 2 plato (1.008)
+8.11.2017 FG 2 plato (1.008)
+
+4,4%
+
+Priming sugar 115g  (2.5 vol CO2)
+
+Was pretty hungover when measuring the dry hops. End result is quite fruity.
+
+Efficiency 69%
+
+Recipe Generated with BrewMate

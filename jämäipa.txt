@@ -1,0 +1,52 @@
+JämäIPA
+American IPA
+
+Recipe Specs
+----------------
+Batch Size (L):           20.0
+Total Grain (kg):         5.500
+Total Hops (g):           165.00
+Original Gravity (OG):    1.061  (°P): 15.0
+Final Gravity (FG):       1.014  (°P): 3.6
+Alcohol by Volume (ABV):  6.15 %
+Colour (SRM):             5.6   (EBC): 11.0
+Bitterness (IBU):         84.0   (Average)
+Brewhouse Efficiency (%): 70
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+4.500 kg Viking Pale Ale (81.82%)
+1.000 kg Viking Cara Pale (18.18%)
+
+Hop Bill
+----------------
+36.0 g Magnum Pellet (12.5% Alpha) @ 60 Minutes (Boil) (1.8 g/L)
+16.0 g Mosaic Pellet (12% Alpha) @ 15 Minutes (Boil) (0.8 g/L)
+26.0 g Simcoe Pellet (12.2% Alpha) @ 15 Minutes (Boil) (1.3 g/L)
+30.0 g Equinox Pellet (14% Alpha) @ 30 Minutes (Aroma) (1.5 g/L)
+57.0 g Mosaic Pellet (12% Alpha) @ 30 Minutes (Aroma) (2.9 g/L)
+
+Misc Bill
+----------------
+
+Single step Infusion at 64°C for 90 Minutes.
+Fermented at 20°C with Safale US-05
+
+Notes
+----------------
+Aroma Hops: Hop stand 30min starting at 78°C
+
+OG 1.070 (plato 17) 17l (Efficiency 69%)
+Dilute to 1.061 add 2,5l water
+-> 19,5l
+
+OG 1.061 2.2.2019
+FG  1.009 28.2.2019
+
+ABV 6.8%
+
+Priming sugar 125g (2.6 CO Vol)
+
+Recipe Generated with BrewMate
+

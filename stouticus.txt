@@ -1,0 +1,44 @@
+Stout tai porter
+Other Smoked Beer
+
+Recipe Specs
+----------------
+Batch Size (L):           13.0
+Total Grain (kg):         4.957
+Total Hops (g):           30.00
+Original Gravity (OG):    1.080  (°P): 19.3
+Final Gravity (FG):       1.020  (°P): 5.1
+Alcohol by Volume (ABV):  7.86 %
+Colour (SRM):             46.4   (EBC): 91.3
+Bitterness (IBU):         67.4   (Average)
+Brewhouse Efficiency (%): 70
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+2.479 kg Viking Pale Ale (50%)
+1.537 kg Weyermann Smoked Barley Malt (31%)
+0.545 kg Viking Dark Ale Malt (11%)
+0.198 kg Viking Black Malt (4%)
+0.198 kg Viking Chocolate Malt (4%)
+
+Hop Bill
+----------------
+30.0 g Magnum Pellet (12.5% Alpha) @ 60 Minutes (Boil) (2.3 g/L)
+
+Misc Bill
+----------------
+
+Single step Infusion at 68°C for 90 Minutes.
+Fermented at 20°C with Safale S-04
+
+Notes
+----------------
+19.11.2016 OG 1.085 Plato 20.5
+10.12.2016 FG 1.034 Plato 8.5
+
+Bottling 10.12.2016
+ABV 6.7%
+Priming sugar 44g (CO2 vol 2.0)
+
+Recipe Generated with BrewMate

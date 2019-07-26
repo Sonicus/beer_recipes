@@ -1,0 +1,47 @@
+Toka APA
+American Pale Ale
+
+Recipe Specs
+----------------
+Batch Size (L):           19.0
+Total Grain (kg):         4.809
+Total Hops (g):           121.60
+Original Gravity (OG):    1.056  (°P): 13.8
+Final Gravity (FG):       1.011  (°P): 2.8
+Alcohol by Volume (ABV):  5.87 %
+Colour (SRM):             5.1   (EBC): 10.0
+Bitterness (IBU):         70.1   (Average)
+Brewhouse Efficiency (%): 70
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+4.208 kg Viking Pale Ale (87.5%)
+0.601 kg Viking Cara Pale (12.5%)
+
+Hop Bill
+----------------
+22.8 g Magnum Pellet (15% Alpha) @ 60 Minutes (Boil) (1.2 g/L)
+19.0 g Cascade Pellet (7.8% Alpha) @ 15 Minutes (Boil) (1 g/L)
+24.7 g Cascade Pellet (7.8% Alpha) @ 10 Minutes (Boil) (1.3 g/L)
+24.7 g Cascade Pellet (7.8% Alpha) @ 5 Minutes (Boil) (1.3 g/L)
+30.4 g Ahtanum Pellet (6% Alpha) @ 0 Days (Dry Hop) (1.6 g/L)
+
+Misc Bill
+----------------
+
+Single step Infusion at 65°C for 60 Minutes.
+Fermented at 20°C with Safale US-05
+
+Notes
+----------------
+OG   24.4.2016 Plato 13 (1.053)
+G       4.5.2016 Plato 3 (1.012)
+FG    9.5.2016 Plato 2.75 (1.011)
+
+ABV~5,49%
+IBU 60-70
+
+Pullotukseen sokeria 2.7 vol CO2
+
+Recipe Generated with BrewMate

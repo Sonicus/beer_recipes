@@ -1,0 +1,45 @@
+Savubisse
+Other Smoked Beer
+
+Recipe Specs
+----------------
+Batch Size (L):           7.0
+Total Grain (kg):         1.984
+Total Hops (g):           47.50
+Original Gravity (OG):    1.059  (°P): 14.5
+Final Gravity (FG):       1.015  (°P): 3.8
+Alcohol by Volume (ABV):  5.80 %
+Colour (SRM):             5.7   (EBC): 11.3
+Bitterness (IBU):         90.7   (Average)
+Brewhouse Efficiency (%): 66
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+1.587 kg Viking Pale Ale (80%)
+0.397 kg Viking Lightly Peated Malt (20%)
+
+Hop Bill
+----------------
+15.5 g Magnum Pellet (12.5% Alpha) @ 60 Minutes (Boil) (2.2 g/L)
+7.0 g Cascade Pellet (7.8% Alpha) @ 15 Minutes (Boil) (1 g/L)
+7.0 g Cascade Pellet (7.8% Alpha) @ 10 Minutes (Boil) (1 g/L)
+7.0 g Cascade Pellet (7.8% Alpha) @ 5 Minutes (Boil) (1 g/L)
+11.0 g Cascade Pellet (7.8% Alpha) @ 0 Days (Dry Hop) (1.6 g/L)
+
+Misc Bill
+----------------
+
+Single step Infusion at 66°C for 90 Minutes.
+Fermented at 20°C with Safale US-05
+
+Notes
+----------------
+OG Plato 15 (1.061) 10.7.2016
+Plato 3.5 (1.014) 12.7.2016
+Pullotus 25.72016 5,5l
+CO2 vol 2.5 (38g)
+Plato 3 (1.012) 
+6,4%
+
+Recipe Generated with BrewMate

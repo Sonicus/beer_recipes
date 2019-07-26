@@ -1,0 +1,53 @@
+Eka APA
+American Pale Ale
+
+Recipe Specs
+----------------
+Batch Size (L):           19.0
+Total Grain (kg):         4.809
+Total Hops (g):           121.60
+Original Gravity (OG):    1.056  (°P): 13.8
+Final Gravity (FG):       1.011  (°P): 2.8
+Alcohol by Volume (ABV):  5.87 %
+Colour (SRM):             5.1   (EBC): 10.0
+Bitterness (IBU):         70.1   (Average)
+Brewhouse Efficiency (%): 70
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+4.208 kg Viking Pale Ale (87.5%)
+0.601 kg Viking Cara Pale (12.5%)
+
+Hop Bill
+----------------
+22.8 g Magnum Pellet (15% Alpha) @ 60 Minutes (Boil) (1.2 g/L)
+19.0 g Cascade Pellet (7.8% Alpha) @ 15 Minutes (Boil) (1 g/L)
+24.7 g Cascade Pellet (7.8% Alpha) @ 10 Minutes (Boil) (1.3 g/L)
+24.7 g Cascade Pellet (7.8% Alpha) @ 5 Minutes (Boil) (1.3 g/L)
+30.4 g Cascade Pellet (7.8% Alpha) @ 0 Days (Dry Hop) (1.6 g/L)
+
+Misc Bill
+----------------
+
+Single step Infusion at 66°C for 80 Minutes.
+Fermented at 18°C with Safale US-05
+
+Notes
+----------------
+OG 26.12.2015 ~1.054
+
+Gravity 2.1.2016 ~1.010
+
+FG 9.1.2016 ~1.010
+
+ABV ~5.7%
+IBU 60-70
+
+Pantu 26.12.2015
+Kuivahumaloitu 2.1.2016
+Pullotettu 9.1.2016
+
+Pullotukseen sokeria 120g (CO2 2.5 vol)
+
+Recipe Generated with BrewMate

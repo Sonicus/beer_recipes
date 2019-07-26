@@ -1,0 +1,35 @@
+Häävehnä
+Weizen/Weissbier
+
+Recipe Specs
+----------------
+Batch Size (L):           25.0
+Total Grain (kg):         6.000
+Total Hops (g):           22.50
+Original Gravity (OG):    1.056  (°P): 13.8
+Final Gravity (FG):       1.015  (°P): 3.8
+Alcohol by Volume (ABV):  5.43 %
+Colour (SRM):             5.3   (EBC): 10.5
+Bitterness (IBU):         15.6   (Average)
+Brewhouse Efficiency (%): 75
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+3.500 kg Viking Wheat Malt (58.33%)
+1.500 kg Viking Pilsner Malt (25%)
+1.000 kg Viking Munich Malt (16.67%)
+
+Hop Bill
+----------------
+22.5 g Hallertau Mittelfrüh Pellet (6.3% Alpha) @ 60 Minutes (Boil) (0.9 g/L)
+
+Misc Bill
+----------------
+
+Single step Infusion at 66°C for 90 Minutes.
+Fermented at 20°C with WLP300 - Hefeweizen Ale
+
+
+Recipe Generated with BrewMate
+

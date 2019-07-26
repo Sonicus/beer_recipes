@@ -1,0 +1,54 @@
+OKS
+American IPA
+
+Recipe Specs
+----------------
+Batch Size (L):           17.0
+Total Grain (kg):         4.669
+Total Hops (g):           227.80
+Original Gravity (OG):    1.059  (°P): 14.5
+Final Gravity (FG):       1.015  (°P): 3.8
+Alcohol by Volume (ABV):  5.80 %
+Colour (SRM):             5.5   (EBC): 10.8
+Bitterness (IBU):         107.6   (Average)
+Brewhouse Efficiency (%): 68
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+3.969 kg Viking Pale Ale (85%)
+0.700 kg Viking Cara Pale (15%)
+
+Hop Bill
+----------------
+23.8 g Magnum Pellet (12.5% Alpha) @ 60 Minutes (Boil) (1.4 g/L)
+30.6 g Citra Pellet (11.1% Alpha) @ 15 Minutes (Boil) (1.8 g/L)
+30.6 g Mandarina Bavaria Pellet (8.5% Alpha) @ 15 Minutes (Boil) (1.8 g/L)
+30.6 g Citra Pellet (11.1% Alpha) @ 10 Minutes (Boil) (1.8 g/L)
+30.6 g Mandarina Bavaria Pellet (8.5% Alpha) @ 10 Minutes (Boil) (1.8 g/L)
+40.8 g Citra Pellet (11.1% Alpha) @ 5 Days (Dry Hop) (2.4 g/L)
+40.8 g Mandarina Bavaria Pellet (8.5% Alpha) @ 5 Days (Dry Hop) (2.4 g/L)
+
+Misc Bill
+----------------
+2.0 g Lime Juice @ 6 Days (Secondary)
+2.0 g Lime Zest @ 6 Days (Secondary)
+24.0 g Habanero @ 5 Days (Secondary)
+
+Single step Infusion at 66°C for 90 Minutes.
+Fermented at 21°C with Safale US-05
+
+Notes
+----------------
+Volume: 15l
+7.10.2017 OG 15 plato (SG 1.061)
+15.10.2017 G 3,5 plato (SG 1.014)
+21.10.2017 3.5 plato (SG 1.014)
+
+~6,2%
+
+Efficiency 62%
+
+Priming sugar 107g (2.6 vol of CO2)
+
+

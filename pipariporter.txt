@@ -1,0 +1,51 @@
+Pipariporter
+American Stout
+
+Recipe Specs
+----------------
+Batch Size (L):           8.0
+Total Grain (kg):         2.970
+Total Hops (g):           14.40
+Original Gravity (OG):    1.078  (°P): 18.9
+Final Gravity (FG):       1.020  (°P): 5.1
+Alcohol by Volume (ABV):  7.66 %
+Colour (SRM):             37.5   (EBC): 73.8
+Bitterness (IBU):         52.9   (Average)
+Brewhouse Efficiency (%): 68
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+2.000 kg Viking Pale Ale (67.34%)
+0.500 kg Viking Cara Pale (16.84%)
+0.160 kg Vikin Chocolate Light Malt (5.39%)
+0.160 kg Viking Chocolate Malt (5.39%)
+0.150 kg Flaked Oats (5.05%)
+
+Hop Bill
+----------------
+14.4 g Magnum Pellet (12.5% Alpha) @ 60 Minutes (Boil) (1.8 g/L)
+
+Misc Bill
+----------------
+350.0 g Gingerbread Cookies @ 90 Minutes (Mash)
+
+Single step Infusion at 67°C for 75 Minutes.
+Fermented at 21°C with Safale US-05
+
+Notes
+----------------
+OG 1.095 6l
+Dilute to 1.081, add 1l of water
+->
+1.081 7l
+
+OG 1.081 2.2.2019
+FG 1.030 28.2.2019
+ABV 6,7%
+
+
+Priming sugar 30g (2.4 CO vol)
+
+Recipe Generated with BrewMate
+

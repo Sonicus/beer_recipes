@@ -1,0 +1,61 @@
+OKS 2
+Imperial Stout
+
+Recipe Specs
+----------------
+Batch Size (L):           14.0
+Total Grain (kg):         7.234
+Total Hops (g):           30.00
+Original Gravity (OG):    1.104  (°P): 24.6
+Final Gravity (FG):       1.026  (°P): 6.6
+Alcohol by Volume (ABV):  10.22 %
+Colour (SRM):             56.4   (EBC): 111.1
+Bitterness (IBU):         54.3   (Average)
+Brewhouse Efficiency (%): 70
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+5.011 kg Viking Pale Ale (69.27%)
+0.370 kg Lactose (5.11%)
+0.335 kg Vikin Chocolate Light Malt (4.63%)
+0.335 kg Viking Cara Plus Malt (4.63%)
+0.335 kg Viking Chocolate Malt (4.63%)
+0.335 kg Weyermann Chocolate Rye Malt (4.63%)
+0.251 kg Flaked Oats (3.47%)
+0.179 kg Viking Crystal 150 (2.47%)
+0.083 kg Roasted Barley (1.15%)
+
+Hop Bill
+----------------
+30.0 g Magnum Pellet (12.5% Alpha) @ 60 Minutes (Boil) (2.1 g/L)
+
+Misc Bill
+----------------
+2.0 g Vanilla Bean @ 14 Days (Secondary)
+170.0 g Cacao Nibs @ 4 Days (Secondary)
+
+Single step Infusion at 67°C for 90 Minutes.
+Fermented at 21°C with WLP001 - California Ale
+
+Notes
+----------------
+OG 16.9.2018 1.104
+SG 23.9.2018 1.048
+SG 10.10.2018 1.048
+
+ABV ~7,35%
+
+Actual volume 13,5L
+Efficiency 63%
+
+
+Cacao nibs and vanilla in 23.9.2018
+Cacao nibs out 27.9.2018
+
+Bottling 10.10.2018
+
+Priming sugar 75g/13l (2.3 vol)
+
+Recipe Generated with BrewMate
+

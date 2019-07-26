@@ -1,0 +1,43 @@
+Wheatti
+Weizen/Weissbier
+
+Recipe Specs
+----------------
+Batch Size (L):           22.0
+Total Grain (kg):         5.523
+Total Hops (g):           9.90
+Original Gravity (OG):    1.051  (°P): 12.6
+Final Gravity (FG):       1.013  (°P): 3.3
+Alcohol by Volume (ABV):  5.01 %
+Colour (SRM):             4.7   (EBC): 9.2
+Bitterness (IBU):         15.7   (Average)
+Brewhouse Efficiency (%): 65
+Boil Time (Minutes):      90
+
+Grain Bill
+----------------
+3.038 kg Viking Wheat Malt (55%)
+2.485 kg Viking Pale Ale (45%)
+
+Hop Bill
+----------------
+9.9 g Magnum Pellet (12.5% Alpha) @ 60 Minutes (Boil) (0.4 g/L)
+
+Misc Bill
+----------------
+
+Single step Infusion at 67°C for 80 Minutes.
+Fermented at 23°C with Safbrew WB-06
+
+Notes
+----------------
+15.1.2017 Plato 15,5 (SG 1.063)
+20.1.2017 Plato 3.75 (SG 1.015)
+ABV 6,38
+24.1.2017 Plato 2.5 (SG 1.010)
+ABV 7.02%
+
+Pullotus 4.2.2017
+Priming sugar 160g (3.5 vol CO2)
+
+Recipe Generated with BrewMate

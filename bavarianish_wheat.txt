@@ -1,0 +1,52 @@
+Bavarian Wheat
+Weizen/Weissbier
+
+Recipe Specs
+----------------
+Batch Size (L):           19.0
+Total Grain (kg):         4.500
+Total Hops (g):           8.00
+Original Gravity (OG):    1.051  (°P): 12.6
+Final Gravity (FG):       1.014  (°P): 3.6
+Alcohol by Volume (ABV):  4.88 %
+Colour (SRM):             4.6   (EBC): 9.0
+Bitterness (IBU):         14.6   (Average)
+Brewhouse Efficiency (%): 70
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+2.000 kg Viking Pilsner Malt (44.44%)
+2.000 kg Viking Wheat Malt (44.44%)
+0.250 kg Viking Dextrin Malt (5.56%)
+0.250 kg Viking Munich Malt (5.56%)
+
+Hop Bill
+----------------
+8.0 g Simcoe Pellet (12.2% Alpha) @ 60 Minutes (Boil) (0.4 g/L)
+
+Misc Bill
+----------------
+
+Single step Infusion at 67°C for 90 Minutes.
+Fermented at 26°C with Wyeast 3638 - Bavarian Wheat
+
+Notes
+----------------
+OG 22.6.2018 1.057 (plato 14) -> 1.051 after dilution
+SG 2.7.2018 1.012 (plato 3)
+FG 14.7.2018 1.012 (plato 3)
+
+~5.1%
+
+
+Volume 16,5l | 1.057 OG | Efficiency 68%
+
+Dilute to 1.051 -> Add 2l of water -> OG 1.051 -> Volume18,5l
+
+Priming sugar 130g (2.7 vol CO2)
+
+
+
+Recipe Generated with BrewMate
+
