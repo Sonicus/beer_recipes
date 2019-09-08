@@ -1,0 +1,48 @@
+ESB
+Extra Special/Strong Bitter (English Pale Ale)
+
+Recipe Specs
+----------------
+Batch Size (L):           25.0
+Total Grain (kg):         5.756
+Total Hops (g):           66.00
+Original Gravity (OG):    1.058  (°P): 14.3
+Final Gravity (FG):       1.015  (°P): 3.8
+Alcohol by Volume (ABV):  5.70 %
+Colour (SRM):             13.4   (EBC): 26.4
+Bitterness (IBU):         37.5   (Average)
+Brewhouse Efficiency (%): 80
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+5.238 kg Maris Otter Malt (91%)
+0.518 kg Viking Caramel Malt 200 (9%)
+
+Hop Bill
+----------------
+18.0 g Challenger Pellet (6.1% Alpha) @ 60 Minutes (Boil) (0.7 g/L)
+18.0 g Target Pellet (9% Alpha) @ 60 Minutes (Boil) (0.7 g/L)
+18.0 g East Kent Golding Pellet (4.7% Alpha) @ 15 Minutes (Boil) (0.7 g/L)
+12.0 g Northern Brewer Pellet (9.6% Alpha) @ 15 Minutes (Boil) (0.5 g/L)
+
+Misc Bill
+----------------
+
+Single step Infusion at 65°C for 90 Minutes.
+Fermented at 20°C with Wyeast 1968 - London ESB Ale
+
+Notes
+----------------
+OG (18.8.2019) 14.5 plato -> 1.059
+Volume 22l
+Efficiency 72%
+
+FG 8.9.2019 4 plato ->  1.016
+5,6%
+
+5l to keg
+Priming sugar 80g (2.1 vol CO2) for 16l
+
+Recipe Generated with BrewMate
+
