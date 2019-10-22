@@ -22,15 +22,14 @@ Grain Bill
 Hop Bill
 ----------------
 50.0 g Northern Brewer Pellet (9.6% Alpha) @ 60 Minutes (Boil) (1.2 g/L)
-50.0 g Target Pellet (9% Alpha) @ 60 Minutes (Boil) (1.2 g/L)
+50.0 g Target Pellet (9% Alpha) @ 60 Minutes (Boil) (1.3 g/L)
 80.0 g Challenger Pellet (6.1% Alpha) @ 15 Minutes (Boil) (2 g/L)
 80.0 g East Kent Golding Pellet (4.7% Alpha) @ 15 Minutes (Boil) (2 g/L)
 
 Misc Bill
 ----------------
+8.0 g Irish Moss @ 15 Minutes (Boil)
 
 Single step Infusion at 65°C for 90 Minutes.
 Fermented at 20°C with Safale S-04
-
-
 
