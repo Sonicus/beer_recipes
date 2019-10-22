@@ -1,0 +1,36 @@
+English JämäIPA
+English IPA
+
+Recipe Specs
+----------------
+Batch Size (L):           40.0
+Total Grain (kg):         9.942
+Total Hops (g):           260.00
+Original Gravity (OG):    1.061  (°P): 15.0
+Final Gravity (FG):       1.015  (°P): 3.8
+Alcohol by Volume (ABV):  5.99 %
+Colour (SRM):             13.9   (EBC): 27.3
+Bitterness (IBU):         82.7   (Average)
+Brewhouse Efficiency (%): 78
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+8.948 kg Viking Pale Ale (90%)
+0.994 kg Viking Caramel Malt 200 (10%)
+
+Hop Bill
+----------------
+50.0 g Northern Brewer Pellet (9.6% Alpha) @ 60 Minutes (Boil) (1.2 g/L)
+50.0 g Target Pellet (9% Alpha) @ 60 Minutes (Boil) (1.2 g/L)
+80.0 g Challenger Pellet (6.1% Alpha) @ 15 Minutes (Boil) (2 g/L)
+80.0 g East Kent Golding Pellet (4.7% Alpha) @ 15 Minutes (Boil) (2 g/L)
+
+Misc Bill
+----------------
+
+Single step Infusion at 65°C for 90 Minutes.
+Fermented at 20°C with Safale S-04
+
+
+
