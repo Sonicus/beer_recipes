@@ -33,3 +33,21 @@ Misc Bill
 Single step Infusion at 65°C for 90 Minutes.
 Fermented at 20°C with Safale S-04
 
+Notes
+----------------
+OG 03.11.2019 15 plato -> 1.061
+SG 10.11.2019 5 plato -> 1.020
+FG 18.11.2019 5 plato -> 1.020
+
+ABV 5.4%
+
+Volume in kettle 40l -> Efficient 78%
+Volume in fermentation buckets 37l -> Efficiency 72%
+
+2.3 vol co2
+
+10l to kegs
+26l to bottles -> 156g sugar
+
+Recipe Generated with BrewMate
+
