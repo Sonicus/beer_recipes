@@ -9,15 +9,16 @@ Total Hops (g):           438.00
 Original Gravity (OG):    1.056  (°P): 13.8
 Final Gravity (FG):       1.014  (°P): 3.6
 Alcohol by Volume (ABV):  5.50 %
-Colour (SRM):             4.5   (EBC): 8.9
+Colour (SRM):             4.6   (EBC): 9.0
 Bitterness (IBU):         70.5   (Average)
 Brewhouse Efficiency (%): 70
 Boil Time (Minutes):      60
 
 Grain Bill
 ----------------
-8.000 kg Crisp Extra Pale Malt (86.49%)
+7.000 kg Crisp Extra Pale Malt (75.68%)
 1.000 kg Viking Cara Pale (10.81%)
+1.000 kg Viking Pale Ale (10.81%)
 0.250 kg Rice Hulls (2.7%)
 
 Hop Bill
@@ -43,9 +44,10 @@ Misc Bill
 3.0 g Calcium Chloride @ 90 Minutes (Mash)
 6.0 g Epsom Salt (MgSO4) @ 90 Minutes (Mash)
 8.0 g Gypsum (Calcium Sulfate) @ 90 Minutes (Mash)
+7.0 g Irish Moss @ 15 Minutes (Boil)
 
 Single step Infusion at 66°C for 90 Minutes.
-Fermented at 20°C with Safale US-05
+Fermented at 19°C with Safale US-05
 
 Notes
 ----------------
@@ -53,17 +55,22 @@ Water profile after additions:
 	Ca+2	Mg+2	Na+	Cl-	SO4-2	HCO	
 Actual	73.7	13.7	5.8	34.2	146.9	0.251
 
-Volume after boil ##l
-x.x.2020 OG  # plato -> 1.0##
-Efficiency ##%
+Volume after boil 35l
+28.1.2019 OG  14.5 plato -> 1.059
+Efficiency 74%
+30,5l in vessel
 
-##Dilute to 1.056 add #l water
 
-Dry hops x.x.2020
-OG
-FG
+Dry hops 6.1.2020
+SG 3.5 plato -> 1.014 
 
-Carb: 2.4 vol co2
+12.1.2020
+FG 3.5 plato -> 1.014
+
+ABV ~5.9%
+
+10l to keg, ~18l to bottles
+Priming sugar 107g (2.4 vol co2)
 
 Recipe Generated with BrewMate
 
