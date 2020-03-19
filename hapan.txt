@@ -1,0 +1,62 @@
+Hapanolut
+Berliner Weisse
+
+Recipe Specs
+----------------
+Batch Size (L):           24.0
+Total Grain (kg):         5.062
+Total Hops (g):           3.30
+Original Gravity (OG):    1.045  (°P): 11.2
+Final Gravity (FG):       1.011  (°P): 2.8
+Alcohol by Volume (ABV):  4.42 %
+Colour (SRM):             4.1   (EBC): 8.1
+Bitterness (IBU):         5.1   (Average)
+Brewhouse Efficiency (%): 68
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+3.037 kg Viking Pale Ale (60%)
+2.025 kg Viking Wheat Malt (40%)
+
+Hop Bill
+----------------
+3.3 g Magnum Pellet (12.5% Alpha) @ 60 Minutes (Boil) (0.1 g/L)
+
+Misc Bill
+----------------
+5.0 g Chalk @ 60 Minutes (Mash)
+4.0 g Gypsum (Calcium Sulfate) @ 60 Minutes (Mash)
+3.0 g Salt @ 60 Minutes (Mash)
+
+Single step Infusion at 64°C for 60 Minutes.
+Fermented at 19°C with Safale US-05
+
+Notes
+----------------
+Water profile after additions:
+Ca+2	Mg+2	Na+	Cl-	SO4-2	mash pH
+78.8	1.6	42.3	61.0	77.2	5.40
+
+Pre-boil OG Before bacteria 11 plato -> 1.044
+Pre-boil OG After bacteria 10 plato -> 1.040
+pH Before bacteria ~5.4
+ph After bacteria ~3.7
+
+22.02.2020 OG 11 plato -> 1.044
+01.03.2020 SG before fruit addition 3,5 plato -> 1.014
+
+1,5l raspberry pure
+1,5l mango pure
+
+10l + 10l fermentation vessels.
+
+16.3.2020 FG ~1.014 -> ~4%
+
+Priming sugar 84g raspberry (~3.6 vol)
+Priming sugar 75g mango (~3.0 vol)
+Raspberry actual volume 9l
+Mango actual volume 9l
+
+Recipe Generated with BrewMate
+
