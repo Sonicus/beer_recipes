@@ -1,0 +1,66 @@
+Light Weiss
+Weizen/Weissbier
+
+Recipe Specs
+----------------
+Batch Size (L):           40.0
+Total Grain (kg):         9.518
+Total Hops (g):           32.00
+Original Gravity (OG):    1.049  (°P): 12.1
+Final Gravity (FG):       1.012  (°P): 3.1
+Alcohol by Volume (ABV):  4.81 %
+Colour (SRM):             4.4   (EBC): 8.6
+Bitterness (IBU):         14.5   (Average)
+Brewhouse Efficiency (%): 70
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+5.000 kg Weyermann Wheat Pale (52.53%)
+3.000 kg Viking Pilsner Malt (31.52%)
+1.018 kg Viking Munich Light (10.7%)
+0.500 kg Rice Hulls (5.25%)
+
+Hop Bill
+----------------
+32.0 g Hallertau Mittelfrüh Pellet (6.3% Alpha) @ 60 Minutes (Boil) (0.8 g/L)
+
+Misc Bill
+----------------
+4.0 g Calcium Chloride @ 90 Minutes (Mash)
+9.0 g Chalk @ 90 Minutes (Mash)
+5.0 g Epsom Salt (MgSO4) @ 90 Minutes (Mash)
+4.0 g Gypsum (Calcium Sulfate) @ 90 Minutes (Mash)
+3.0 g Salt @ 90 Minutes (Mash)
+
+Single step Infusion at 66°C for 90 Minutes.
+Fermented at 22°C with Wyeast 3068 - Weihenstephan Weizen
+
+Notes
+----------------
+Water profile after additions (mash only):
+Ca+2	Mg+2	Na+	Cl-	SO4-2	mash pH
+88.5	10.6	27.3	72.9	84.1	5.40
+
+OG 7.6.2020 11.5 plato -> 1.046
+
+Volume in kettle 39l
+
+Efficiency 64% (why?)
+
+Add 1,5l to raspberry pure to one vessel (19l)
+
+SG 12.6.2020  
+
+Raspberry 2.5 plato -> 1.010
+Normal 2.5 plato -> 1.010
+
+FG 14.6.2020  
+
+Raspberry 2.5 plato -> 1.010
+Normal 2.5 plato -> 1.010
+
+ABV 4,7%
+
+Priming sugar to 3.6 vol co2
+
