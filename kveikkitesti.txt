@@ -1,0 +1,71 @@
+Kveikkitesti
+American IPA
+
+Recipe Specs
+----------------
+Batch Size (L):           35.0
+Total Grain (kg):         10.500
+Total Hops (g):           300.00
+Original Gravity (OG):    1.063  (°P): 15.4
+Final Gravity (FG):       1.014  (°P): 3.6
+Alcohol by Volume (ABV):  6.35 %
+Colour (SRM):             5.9   (EBC): 11.6
+Bitterness (IBU):         66.4   (Average)
+Brewhouse Efficiency (%): 70
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+5.000 kg Maris Otter Malt (47.62%)
+4.000 kg Viking Pale Ale (38.1%)
+1.000 kg Flaked Oats (9.52%)
+0.500 kg Rice Hulls (4.76%)
+
+Hop Bill
+----------------
+50.0 g Citra Pellet (11.1% Alpha) @ 60 Minutes (Boil) (1.4 g/L)
+50.0 g Citra Pellet (12.6% Alpha) @ 15 Minutes (Boil) (1.4 g/L)
+50.0 g Lemon Drop Pellet (5.7% Alpha) @ 15 Minutes (Boil) (1.4 g/L)
+50.0 g Citra Pellet (12.6% Alpha) @ 20 Minutes (Aroma) (1.4 g/L)
+100.0 g Lemon Drop Pellet (5.7% Alpha) @ 20 Minutes (Aroma) (2.9 g/L)
+
+Misc Bill
+----------------
+
+Single step Infusion at 66°C for 90 Minutes.
+Fermented at 19°C with OYL-090 Espe Kveik
+
+Notes
+----------------
+Water profile after additions:
+Ca+2	Mg+2	Na+	Cl-	SO4-2	mash pH      HCO
+82.7	11.5	5.8	43.3	147.5	5.40                20.4
+
+Hop stand at 77C for 40min
+
+OG 21.07.2020 16 Plato -> 1.065
+
+Total in vessels 32.5l -> Efficiency 74%
+
+Split into two vessels. One with Espe and one with Hornindal
+
+SG 24.7.2020
+Espe: 3.5 Plato -> 1.014
+Hornindal: 3.5 Plato -> 1.014
+
+FG 27.7.2020
+Espe: 3.0 Plato -> 1.012
+Hornindal: 3.5 Plato -> 1.014
+
+ABV:
+Espe 7%
+Hornindal 6,7%
+
+Carb to 2.4 vol
+
+Cap color:
+Yellow = Espe
+Red = Hornindal
+
+Recipe Generated with BrewMate
+
