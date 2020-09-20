@@ -1,0 +1,76 @@
+Kuake 2
+American IPA
+
+Recipe Specs
+----------------
+Batch Size (L):           42.0
+Total Grain (kg):         10.500
+Total Hops (g):           325.00
+Original Gravity (OG):    1.052  (°P): 12.9
+Final Gravity (FG):       1.012  (°P): 3.1
+Alcohol by Volume (ABV):  5.25 %
+Colour (SRM):             5.3   (EBC): 10.5
+Bitterness (IBU):         43.5   (Average)
+Brewhouse Efficiency (%): 70
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+6.000 kg Maris Otter Malt (57.14%)
+4.000 kg Crisp Extra Pale Malt (38.1%)
+0.500 kg Rice Hulls (4.76%)
+
+Hop Bill
+----------------
+25.0 g Magnum Pellet (12.5% Alpha) @ 60 Minutes (Boil) (0.6 g/L)
+50.0 g Citra Pellet (12.6% Alpha) @ 15 Minutes (Boil) (1.2 g/L)
+50.0 g Lemon Drop Pellet (5.7% Alpha) @ 15 Minutes (Boil) (1.2 g/L)
+50.0 g Citra Pellet (12.6% Alpha) @ 20 Minutes (Aroma) (1.2 g/L)
+50.0 g Lemon Drop Pellet (5.7% Alpha) @ 20 Minutes (Aroma) (1.2 g/L)
+100.0 g Simcoe Pellet (12.2% Alpha) @ 3 Days (Dry Hop) (2.4 g/L)
+
+Misc Bill
+----------------
+
+Single step Infusion at 66°C for 90 Minutes.
+Fermented at 34°C with OYL-090 Espe Kveik
+
+Notes
+----------------
+NOTICE! This malt amount + 39l strike water is too much! 36-37l probably works better.
+
+Water profile after additions:
+Ca+2	Mg+2	Na+	Cl-	SO4-2	mash pH
+82.6	13.5	5.8	46.3	151.3	5.40
+
+
+Hop stand at 77C for 30min
+
+OG 13.09.2020 13 Plato -> 1.053
+
+Total in vessels 40l -> Efficiency 68% (about 2l in the trub -> would have been 71%)
+
+Split into two vessels. One with Espe and one with Hornindal
+
+SG 18.9.2020
+Espe: 2.5 Plato -> 1.010
+Hornindal: 2.5 Plato -> 1.010
+
+FG 20.9.2020
+Espe: 2.25ish Plato -> 1.009
+Hornindal: 2.5 Plato -> 1.010
+
+ABV:
+Espe 5.7%
+Hornindal 5.6%%
+
+AA 80%
+
+Carb to 2.6 vol
+
+Cap color:
+Yellow = Espe
+Red = Hornindal
+
+Recipe Generated with BrewMate
+
