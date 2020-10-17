@@ -34,7 +34,7 @@ Hop Bill
 Misc Bill
 ----------------
 
-Single step Infusion at 66°C for 90 Minutes.
+Single step Infusion at 68°C for 75 Minutes.
 Fermented at 19°C with Lallemand Verdant IPA
 
 Notes
@@ -42,6 +42,14 @@ Notes
 Water profile after mineral additions:
 Ca+2	Mg+2	Na+	Cl-	SO4-2	mash pH
 74.9	15.9	5.8	46.5	142.0	5.40
+
+Whirlpool 30min at 75C
+
+
+OG 17.10.2020 14 plato -> 1.057
+
+Low OG might be due to coarse oat milling
+In kettle ~35l -> 66% efficiency
 
 Recipe Generated with BrewMate
 
