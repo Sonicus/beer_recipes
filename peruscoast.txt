@@ -1,0 +1,50 @@
+Perus Coast
+American IPA
+
+Recipe Specs
+----------------
+Batch Size (L):           32.0
+Total Grain (kg):         9.500
+Total Hops (g):           275.00
+Original Gravity (OG):    1.061  (°P): 15.0
+Final Gravity (FG):       1.015  (°P): 3.8
+Alcohol by Volume (ABV):  5.99 %
+Colour (SRM):             5.0   (EBC): 9.9
+Bitterness (IBU):         63.9   (Average)
+Brewhouse Efficiency (%): 70
+Boil Time (Minutes):      60
+
+Grain Bill
+----------------
+9.000 kg Crisp Clear Choice Ale (94.74%)
+0.500 kg Rice Hulls (5.26%)
+
+Hop Bill
+----------------
+25.0 g Magnum Pellet (12.5% Alpha) @ 60 Minutes (Boil) (0.8 g/L)
+100.0 g Citra Pellet (12.6% Alpha) @ 15 Minutes (Boil) (3.1 g/L)
+150.0 g Citra Pellet (12.6% Alpha) @ 5 Days (Dry Hop) (4.7 g/L)
+
+Misc Bill
+----------------
+7.0 g Irish Moss @ 15 Minutes (Boil)
+
+Single step Infusion at 66°C for 70 Minutes.
+Fermented at 21°C with Lallemand Verdant IPA
+
+Notes
+----------------
+Water profile after additions
+Ca+2	Mg+2	Na+	Cl-	SO4-2	mash pH
+84.6	14.6	5.8	57.6	145.0	5.40
+
+
+OG 29.11.2020 14,5 plato -> 1.059
+Actual volume in kettle 35l
+-> 74% Efficiency
+
+FG 6.12.2020 4 plato -> 1.016 FG
+~5.6%
+
+Recipe Generated with BrewMate
+
